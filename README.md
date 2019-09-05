@@ -1,5 +1,5 @@
 # Calculator APP Powered by React
-This is code before build
+This is development code.
 
-Deployed version is here:
+Final build version is here:
 https://denisgreen.github.io/React-Calculator-Build/
